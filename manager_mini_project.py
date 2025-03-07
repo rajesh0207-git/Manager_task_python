@@ -1,3 +1,4 @@
+# Manager task for python using class and object 
 import random
 class task_manager():
   total_task=[] 
